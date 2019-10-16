@@ -1,1 +1,1 @@
-# lemanczyk.com
+Source for www.lemanczyk.com
