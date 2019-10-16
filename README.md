@@ -1,2 +1,1 @@
-# krlem.github.io
-ArcGIS, ETL, FME, Python and more...
+# lemanczyk.com
